@@ -1,0 +1,57 @@
+$nomention
+
+$title[/help | Aiuto di ItalianModerationsBOT]
+
+$description[Clicca il menù opzioni qui sotto per cambiare pagina]
+
+$image[https://media.discordapp.net/attachments/1012436858053070858/1028637581115666493/20221008_224200_0000.png]
+
+$footer[Chiesto da $username $addTimestamp]
+
+$newSelectMenu[help1;1;1;Cambia Pagina | Clicca]
+
+$addSelectMenuOption[help1;Menù Principale;Menù Principale;Torna al menù pincipale;no;🏠]
+
+$addSelectMenuOption[help1;Giochi;Giochi;Aiuto sui comandi giochi;no;🎮]
+
+$addSelectMenuOption[help1;Staff;Staff;Aiuto sui comandi Staff;no;🔧]
+
+$addSelectMenuOption[help1;Utente;Utente;Aiuto sui comandi utente;no;👤]
+
+$addSelectMenuOption[help1;Aggiornamenti;Aggiornamenti;Aggiornamenti sul bot;no;⚒️]
+
+$addButton[yes;https://discord.gg/QU9tmAPm7N;❗️ Support;link;no]
+
+$addButton[yes;https://discord.com/oauth2/authorize?client_id=1020308174303150181&scope=bot%20applications.commands&permissions=2146958847;🔗 Invite Me;link;no]
+
+$addButton[yes;servercountbutton;$serverCount server;secondary;yes]
+
+$thumbnail[$authorAvatar]$nomention
+
+$title[/help | Aiuto di ItalianModerationsBOT]
+
+$description[Clicca il menù opzioni qui sotto per cambiare pagina]
+
+$image[https://media.discordapp.net/attachments/1012436858053070858/1028637581115666493/20221008_224200_0000.png]
+
+$footer[Chiesto da $username $addTimestamp]
+
+$newSelectMenu[help1;1;1;Cambia Pagina | Clicca]
+
+$addSelectMenuOption[help1;Menù Principale;Menù Principale;Torna al menù pincipale;no;🏠]
+
+$addSelectMenuOption[help1;Giochi;Giochi;Aiuto sui comandi giochi;no;🎮]
+
+$addSelectMenuOption[help1;Staff;Staff;Aiuto sui comandi Staff;no;🔧]
+
+$addSelectMenuOption[help1;Utente;Utente;Aiuto sui comandi utente;no;👤]
+
+$addSelectMenuOption[help1;Aggiornamenti;Aggiornamenti;Aggiornamenti sul bot;no;⚒️]
+
+$addButton[yes;https://discord.gg/QU9tmAPm7N;❗️ Support;link;no]
+
+$addButton[yes;https://discord.com/oauth2/authorize?client_id=1020308174303150181&scope=bot%20applications.commands&permissions=2146958847;🔗 Invite Me;link;no]
+
+$addButton[yes;servercountbutton;$serverCount server;secondary;yes]
+
+$thumbnail[$authorAvatar]
